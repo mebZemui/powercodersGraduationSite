@@ -1,5 +1,20 @@
 let messages = [
-    '1','2','3'
+    "Willkommen",
+    "خوش آمدید",
+    "Bixêrhatin",
+    "So dhawaaw",
+    "أهلاً بكم",
+    "HOŞGELDİNİZ",
+    "Bienvenue",
+    "እንቋዕ ብድሓን መጻእኩም",
+    "خوش کلیبسیز",
+    "Ashamaa",
+    "བཀྲ་ཤིས་བདེ་ལེགས།",
+    "Bem-vindo",
+    "မင်္ဂလာပါ",
+    "ΚΑΛΩΣ ΗΡΘΑΤΕ",
+    "Bienvenidos",
+    "khush kelibsiz"
 ];
 
 let h3 = document.querySelector('header h3');
