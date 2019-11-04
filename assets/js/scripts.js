@@ -17,7 +17,7 @@ let messages = [
     "khush kelibsiz"
 ];
 
-let h3 = document.querySelector('header h3');
+let h3 = document.getElementById('welcome_message');
 let counter = 0;
 setInterval(function(){
     h3.textContent = messages[counter];
@@ -27,3 +27,10 @@ setInterval(function(){
         counter = 0;
     }
 } , 1500);
+
+class Person
+{
+    constructor(){
+        // finaly match
+    }
+}
